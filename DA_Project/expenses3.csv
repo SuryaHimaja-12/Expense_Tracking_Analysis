@@ -1,0 +1,1156 @@
+﻿ID,Date,title,category,account,amount,currency,type,transfer_amount,transfer_currency,to_account,receive_amount,receive_currency,description,due_date
+1,11-08-2024,Karthik,Bills & Fees,Savings Bank,45,INR,EXPENSE,0,None,None,0,None,No-description,None
+2,10-08-2024,Juice,Food & Drinks,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+3,09-08-2024,Tire,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+4,07-08-2024,Baba,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+5,04-08-2024,Reward,Bills & Fees,Salary Bank,4,INR,INCOME,0,None,None,0,None,No-description,None
+6,04-08-2024,Baba,Bills & Fees,Savings Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+7,02-08-2024,Grocery,Bills & Fees,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+8,02-08-2024,Petrol,Transport,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+9,02-08-2024,Adjust balance,Unknown,Cash,74,INR,EXPENSE,0,None,None,0,None,No-description,None
+10,02-08-2024,Adjust balance,Unknown,Savings Bank,102,INR,EXPENSE,0,None,None,0,None,No-description,None
+11,01-08-2024,Haircut,Bills & Fees,Savings Bank,152,INR,EXPENSE,0,None,None,0,None,No-description,None
+12,01-08-2024,Baba,Bills & Fees,Savings Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+13,31-07-2024,Print,Bills & Fees,Savings Bank,22,INR,EXPENSE,0,None,None,0,None,No-description,None
+14,31-07-2024,License,Bills & Fees,Savings Bank,300,INR,EXPENSE,0,None,None,0,None,No-description,None
+15,26-07-2024,Noodles,Food & Drinks,Savings Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+16,20-07-2024,Adjust balance,Unknown,Savings Bank,0,INR,INCOME,0,None,None,0,None,No-description,None
+17,20-07-2024,Breakfast,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+18,20-07-2024,Maa,Bills & Fees,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+19,15-07-2024,Adjust balance,Unknown,Cash,3,INR,EXPENSE,0,None,None,0,None,No-description,None
+20,15-07-2024,Rent,Bills & Fees,Savings Bank,"3,800.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+21,14-07-2024,Grocery,Bills & Fees,Cash,171,INR,EXPENSE,0,None,None,0,None,No-description,None
+22,14-07-2024,Grocery,Bills & Fees,Cash,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+23,12-07-2024,Adjust balance,Unknown,Salary Bank,41,INR,INCOME,0,None,None,0,None,No-description,None
+24,12-07-2024,Baba,Bills & Fees,Savings Bank,300,INR,EXPENSE,0,None,None,0,None,No-description,None
+25,12-07-2024,Adjust balance,Unknown,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+26,12-07-2024,No title,Unknown,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+27,10-07-2024,Maa,Bills & Fees,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+28,10-07-2024,Breakfast,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+29,07-07-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+30,03-07-2024,Netflix,Bills & Fees,Savings Bank,199,INR,EXPENSE,0,None,None,0,None,No-description,None
+31,03-07-2024,Baba,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+32,02-07-2024,Lunch,Food & Drinks,Cash,120,INR,EXPENSE,0,None,None,0,None,No-description,None
+33,01-07-2024,Baba,Bills & Fees,Savings Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+34,01-07-2024,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+35,01-07-2024,Printouts,Bills & Fees,Salary Bank,13,INR,EXPENSE,0,None,None,0,None,No-description,None
+36,01-07-2024,Printouts,Bills & Fees,Cash,42,INR,EXPENSE,0,None,None,0,None,No-description,None
+37,30-06-2024,Biryani,Food & Drinks,Savings Bank,520,INR,EXPENSE,0,None,None,0,None,No-description,None
+38,30-06-2024,Breakfast,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+39,30-06-2024,Baba,Bills & Fees,Savings Bank,"2,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+40,30-06-2024,Adjust balance,Unknown,Savings Bank,71,INR,INCOME,0,None,None,0,None,No-description,None
+41,29-06-2024,Juice,Food & Drinks,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+42,29-06-2024,Cab,Transport,Cash,180,INR,EXPENSE,0,None,None,0,None,No-description,None
+43,29-06-2024,Snacks,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+44,29-06-2024,Chai,Food & Drinks,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+45,29-06-2024,Recharge,Bills & Fees,Savings Bank,266.9,INR,EXPENSE,0,None,None,0,None,No-description,None
+46,28-06-2024,Curd,Food & Drinks,Cash,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+47,28-06-2024,Adjust balance,Unknown,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+48,28-06-2024,Tea,Food & Drinks,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+49,28-06-2024,Water,Food & Drinks,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+50,28-06-2024,Adjust balance,Unknown,Cash,358,INR,EXPENSE,0,None,None,0,None,No-description,None
+51,27-06-2024,Water,Food & Drinks,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+52,27-06-2024,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+53,27-06-2024,Metro,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+54,27-06-2024,Haldiram,Food & Drinks,Cash,207,INR,EXPENSE,0,None,None,0,None,No-description,None
+55,27-06-2024,Tickets victoria,Bills & Fees,Cash,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+56,27-06-2024,Lunch,Food & Drinks,Cash,95,INR,EXPENSE,0,None,None,0,None,No-description,None
+57,27-06-2024,Ferry,Transport,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+58,27-06-2024,Baba,Bills & Fees,Cash,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+59,27-06-2024,Museum,Bills & Fees,Savings Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+60,27-06-2024,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+61,27-06-2024,Metro,Transport,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+62,27-06-2024,Grocery,Bills & Fees,Cash,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+63,27-06-2024,Withdraw,Bills & Fees,Salary Bank,0,INR,TRANSFER,"2,500.00",INR,Cash,"2,500.00",INR,No-description,None
+64,26-06-2024,Cab,Transport,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+65,26-06-2024,Train,Transport,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+66,24-06-2024,Tickets,Bills & Fees,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+67,23-06-2024,Maa stuff,Bills & Fees,Salary Bank,240,INR,EXPENSE,0,None,None,0,None,No-description,None
+68,23-06-2024,Toto,Transport,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+69,23-06-2024,Snacks,Food & Drinks,Salary Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+70,23-06-2024,Adjust balance,Unknown,Salary Bank,102,INR,EXPENSE,0,None,None,0,None,No-description,None
+71,23-06-2024,Snacks,Food & Drinks,Salary Bank,44,INR,EXPENSE,0,None,None,0,None,No-description,None
+72,23-06-2024,Shaka pola,Bills & Fees,Salary Bank,600,INR,EXPENSE,0,None,None,0,None,No-description,None
+73,21-06-2024,Tickets,Transport,Salary Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+74,20-06-2024,Adjust balance,Unknown,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+75,20-06-2024,Lunch,Food & Drinks,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+76,20-06-2024,Recharge,Bills & Fees,Salary Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+77,19-06-2024,Shave,Bills & Fees,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+78,17-06-2024,Water,Food & Drinks,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+79,17-06-2024,Tickets,Transport,Cash,260,INR,EXPENSE,0,None,None,0,None,No-description,None
+80,17-06-2024,Water,Food & Drinks,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+81,17-06-2024,Ticket Refund,Bills & Fees,Salary Bank,"1,570.72",INR,INCOME,0,None,None,0,None,No-description,None
+82,17-06-2024,Lunch,Food & Drinks,Salary Bank,250,INR,EXPENSE,0,None,None,0,None,No-description,None
+83,17-06-2024,Adjust balance,Unknown,Cash,120,INR,EXPENSE,0,None,None,0,None,No-description,None
+84,16-06-2024,Baba,Bills & Fees,Cash,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+85,16-06-2024,Cab,Transport,Salary Bank,170,INR,EXPENSE,0,None,None,0,None,No-description,None
+86,16-06-2024,Snacks,Food & Drinks,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+87,16-06-2024,Chotu,Bills & Fees,Cash,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+88,16-06-2024,Withdraw,Bills & Fees,Salary Bank,0,INR,TRANSFER,"1,500.00",INR,Cash,"1,500.00",INR,No-description,None
+89,16-06-2024,Tickets,Bills & Fees,Salary Bank,"1,702.70",INR,EXPENSE,0,None,None,0,None,No-description,None
+90,15-06-2024,Baba,Bills & Fees,Salary Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+91,14-06-2024,Petrol,Transport,Cash,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+92,14-06-2024,Sriya payback,Bills & Fees,Cash,100,INR,INCOME,0,None,None,0,None,No-description,None
+93,14-06-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+94,13-06-2024,Snacks,Food & Drinks,Salary Bank,208.5,INR,EXPENSE,0,None,None,0,None,No-description,None
+95,13-06-2024,Petrol,Transport,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+96,11-06-2024,Chips,Food & Drinks,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+97,10-06-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+98,09-06-2024,Petrol,Transport,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+99,09-06-2024,Clothes,Bills & Fees,Salary Bank,799,INR,EXPENSE,0,None,None,0,None,No-description,None
+100,09-06-2024,Snacks,Food & Drinks,Salary Bank,198.88,INR,EXPENSE,0,None,None,0,None,No-description,None
+101,07-06-2024,Baba,Bills & Fees,Salary Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+102,07-06-2024,Snacks,Food & Drinks,Salary Bank,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+103,07-06-2024,Sriya,Bills & Fees,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+104,07-06-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+105,07-06-2024,Karthik payback,Bills & Fees,Salary Bank,200,INR,INCOME,0,None,None,0,None,No-description,None
+106,07-06-2024,Karthik payback,Bills & Fees,Cash,100,INR,INCOME,0,None,None,0,None,No-description,None
+107,05-06-2024,Grocery,Bills & Fees,Salary Bank,175,INR,EXPENSE,0,None,None,0,None,No-description,None
+108,05-06-2024,Netflix,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+109,05-06-2024,Settlement,Bills & Fees,Salary Bank,0,INR,TRANSFER,"2,175.00",INR,Savings Bank,"2,175.00",INR,No-description,None
+110,05-06-2024,Salary,Bills & Fees,Salary Bank,"11,688.00",INR,INCOME,0,None,None,0,None,No-description,None
+111,05-06-2024,Snacks,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+112,05-06-2024,Adjust balance,Unknown,Cash,67,INR,EXPENSE,0,None,None,0,None,No-description,None
+113,05-06-2024,Chotu,Bills & Fees,Savings Bank,155,INR,EXPENSE,0,None,None,0,None,No-description,None
+114,05-06-2024,Adjust balance,Unknown,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+115,05-06-2024,Netflix,Bills & Fees,Salary Bank,199,INR,EXPENSE,0,None,None,0,None,No-description,None
+116,05-06-2024,Netflix,Bills & Fees,Salary Bank,200,INR,INCOME,0,None,None,0,None,No-description,None
+117,05-06-2024,Category Expense,Bills & Fees,Salary Bank,70,INR,INCOME,0,None,None,0,None,No-description,None
+118,04-06-2024,Baba,Bills & Fees,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+119,03-06-2024,Snacks,Food & Drinks,Cash,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+120,03-06-2024,Goje,Bills & Fees,Savings Bank,300,INR,EXPENSE,0,None,None,0,None,No-description,None
+121,03-06-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+122,31-05-2024,Biryani,Food & Drinks,Savings Bank,520,INR,EXPENSE,0,None,None,0,None,No-description,None
+123,31-05-2024,Adjust balance,Unknown,Salary Bank,54,INR,EXPENSE,0,None,None,0,None,No-description,None
+124,31-05-2024,Juice,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+125,31-05-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+126,31-05-2024,Smthng,Bills & Fees,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+127,30-05-2024,Pizza,Food & Drinks,Salary Bank,190,INR,EXPENSE,0,None,None,0,None,No-description,None
+128,30-05-2024,Baba,Bills & Fees,Savings Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+129,29-05-2024,Snacks,Food & Drinks,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+130,29-05-2024,Reward,Bills & Fees,Salary Bank,11,INR,INCOME,0,None,None,0,None,No-description,None
+131,29-05-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+132,28-05-2024,Shirt,Bills & Fees,Salary Bank,160,INR,EXPENSE,0,None,None,0,None,No-description,None
+133,28-05-2024,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+134,28-05-2024,Juice,Food & Drinks,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+135,28-05-2024,Withdraw,Bills & Fees,Salary Bank,0,INR,TRANSFER,300,INR,Cash,300,INR,No-description,None
+136,28-05-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+137,27-05-2024,Recharge,Bills & Fees,Salary Bank,155,INR,EXPENSE,0,None,None,0,None,No-description,None
+138,27-05-2024,Chotu,Bills & Fees,Salary Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+139,27-05-2024,Adjust balance,Unknown,Salary Bank,56,INR,EXPENSE,0,None,None,0,None,No-description,None
+140,27-05-2024,Snacks,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+141,26-05-2024,Shampoo,Bills & Fees,Cash,4,INR,EXPENSE,0,None,None,0,None,No-description,None
+142,26-05-2024,Petrol,Bills & Fees,Salary Bank,250,INR,EXPENSE,0,None,None,0,None,No-description,None
+143,26-05-2024,Stationary,Bills & Fees,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+144,25-05-2024,Ice cream,Food & Drinks,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+145,25-05-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+146,25-05-2024,Lunch,Food & Drinks,Salary Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+147,25-05-2024,Auto,Transport,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+148,24-05-2024,Bus,Transport,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+149,24-05-2024,Auto,Transport,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+150,24-05-2024,Juice,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+151,24-05-2024,Printing,Bills & Fees,Salary Bank,555,INR,EXPENSE,0,None,None,0,None,No-description,None
+152,23-05-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+153,21-05-2024,Recharge,Bills & Fees,Salary Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+154,21-05-2024,Internet,Bills & Fees,Salary Bank,470.82,INR,EXPENSE,0,None,None,0,None,No-description,None
+155,21-05-2024,Juice,Food & Drinks,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+156,21-05-2024,Brake,Bills & Fees,Salary Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+157,21-05-2024,Ice Cream,Food & Drinks,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+158,21-05-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+159,21-05-2024,Adjust balance,Unknown,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+160,20-05-2024,Juice,Food & Drinks,Salary Bank,75,INR,EXPENSE,0,None,None,0,None,No-description,None
+161,20-05-2024,Juice,Food & Drinks,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+162,19-05-2024,Tickets,Bills & Fees,Salary Bank,"1,341.80",INR,EXPENSE,0,None,None,0,None,No-description,None
+163,19-05-2024,Tickets,Bills & Fees,Salary Bank,"1,341.80",INR,EXPENSE,0,None,None,0,None,No-description,None
+164,19-05-2024,Maggi,Food & Drinks,Salary Bank,14,INR,EXPENSE,0,None,None,0,None,No-description,None
+165,17-05-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+166,16-05-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+167,15-05-2024,Juice,Food & Drinks,Salary Bank,130,INR,EXPENSE,0,None,None,0,None,No-description,None
+168,15-05-2024,Shawarma ,Food & Drinks,Salary Bank,220,INR,EXPENSE,0,None,None,0,None,No-description,None
+169,15-05-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+170,15-05-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+171,15-05-2024,AtR,Transport,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+172,14-05-2024,Recharge,Transport,Salary Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+173,14-05-2024,Juice,Food & Drinks,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+174,14-05-2024,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+175,14-05-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+176,14-05-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+177,12-05-2024,Snacks,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+178,10-05-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+179,10-05-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+180,10-05-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+181,09-05-2024,Screen,Bills & Fees,Salary Bank,"1,400.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+182,09-05-2024,Snacks,Food & Drinks,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+183,09-05-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+184,08-05-2024,Juice,Food & Drinks,Salary Bank,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+185,08-05-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+186,08-05-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+187,08-05-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+188,08-05-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+189,07-05-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+190,07-05-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+191,07-05-2024,Shawarma,Food & Drinks,Salary Bank,120,INR,EXPENSE,0,None,None,0,None,No-description,None
+192,07-05-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+193,06-05-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+194,06-05-2024,Petrol,Bills & Fees,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+195,06-05-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+196,06-05-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+197,06-05-2024,Juice,Food & Drinks,Salary Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+198,06-05-2024,Lunch,Food & Drinks,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+199,06-05-2024,Adjust balance,Unknown,Salary Bank,80,INR,INCOME,0,None,None,0,None,No-description,None
+200,06-05-2024,Adjust balance,Unknown,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+201,04-05-2024,Petrol,Transport,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+202,04-05-2024,Medic,Bills & Fees,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+203,03-05-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+204,03-05-2024,Recharge,Bills & Fees,Salary Bank,266.9,INR,EXPENSE,0,None,None,0,None,No-description,None
+205,03-05-2024,Petrol,Transport,Salary Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+206,02-05-2024,Exam Fees,Bills & Fees,Salary Bank,"2,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+207,02-05-2024,Juice,Food & Drinks,Salary Bank,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+208,02-05-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+209,02-05-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+210,02-05-2024,Juice,Food & Drinks,Salary Bank,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+211,02-05-2024,Snacks,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+212,02-05-2024,Savings,Unknown,Salary Bank,0,INR,TRANSFER,"2,000.00",INR,Savings Bank,"2,000.00",INR,No-description,None
+213,02-05-2024,Netflix,Bills & Fees,Salary Bank,199,INR,EXPENSE,0,None,None,0,None,No-description,None
+214,02-05-2024,Baba,Bills & Fees,Salary Bank,"5,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+215,01-05-2024,Adjust balance,Unknown,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+216,01-05-2024,Recharge,Bills & Fees,Salary Bank,155,INR,EXPENSE,0,None,None,0,None,No-description,None
+217,01-05-2024,Juice,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+218,01-05-2024,Recharge,Transport,Salary Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+219,01-05-2024,Withdraw,Unknown,Salary Bank,0,INR,TRANSFER,300,INR,Cash,300,INR,No-description,None
+220,01-05-2024,RtA,Transport,Cash,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+221,01-05-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+222,01-05-2024,Water,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+223,30-04-2024,Salary,Bills & Fees,Salary Bank,"19,367.00",INR,INCOME,0,None,None,0,None,No-description,None
+224,30-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+225,30-04-2024,AtR,Transport,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+226,30-04-2024,RtA,Transport,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+227,30-04-2024,Juice,Food & Drinks,Salary Bank,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+228,29-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+229,29-04-2024,RtA,Transport,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+230,29-04-2024,Adjust balance,Unknown,Cash,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+231,29-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+232,29-04-2024,AtR,Transport,Salary Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+233,28-04-2024,Baba,Bills & Fees,Salary Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+234,28-04-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+235,27-04-2024,ðŸ°,Food & Drinks,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+236,27-04-2024,Milk,Bills & Fees,Salary Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+237,27-04-2024,Snacks,Food & Drinks,Salary Bank,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+238,27-04-2024,Water,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+239,27-04-2024,Juice,Food & Drinks,Salary Bank,120,INR,EXPENSE,0,None,None,0,None,No-description,None
+240,27-04-2024,Water,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+241,27-04-2024,Lunch,Food & Drinks,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+242,27-04-2024,Sujith,Bills & Fees,Salary Bank,100,INR,INCOME,0,None,None,0,None,No-description,None
+243,27-04-2024,Priyanka,Bills & Fees,Salary Bank,300,INR,INCOME,0,None,None,0,None,No-description,None
+244,27-04-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+245,26-04-2024,Juice,Food & Drinks,Salary Bank,49,INR,EXPENSE,0,None,None,0,None,No-description,None
+246,26-04-2024,Chotu,Bills & Fees,Salary Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+247,26-04-2024,Snacks,Food & Drinks,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+248,26-04-2024,Drink,Food & Drinks,Salary Bank,49,INR,EXPENSE,0,None,None,0,None,No-description,None
+249,26-04-2024,Lunch,Food & Drinks,Salary Bank,120,INR,EXPENSE,0,None,None,0,None,No-description,None
+250,26-04-2024,Water,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+251,26-04-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+252,25-04-2024,Snacks,Food & Drinks,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+253,25-04-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+254,24-04-2024,Shirt,Bills & Fees,Salary Bank,699,INR,EXPENSE,0,None,None,0,None,No-description,None
+255,24-04-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+256,24-04-2024,Petrol,Transport,Salary Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+257,24-04-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+258,23-04-2024,Team lunch,Food & Drinks,Salary Bank,795,INR,EXPENSE,0,None,None,0,None,No-description,None
+259,23-04-2024,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+260,23-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+261,23-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+262,22-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+263,22-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+264,22-04-2024,Bus Pass,Transport,Salary Bank,430,INR,EXPENSE,0,None,None,0,None,No-description,None
+265,22-04-2024,Recharge,Bills & Fees,Salary Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+266,22-04-2024,Adjust balance,Unknown,Savings Bank,44.02,INR,INCOME,0,None,None,0,None,No-description,None
+267,22-04-2024,Settlement,Unknown,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+268,22-04-2024,Adjust balance,Unknown,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+269,22-04-2024,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+270,22-04-2024,No title,Bills & Fees,Cash,30,INR,INCOME,0,None,None,0,None,No-description,None
+271,22-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+272,21-04-2024,Juice,Food & Drinks,Salary Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+273,21-04-2024,Manchuria,Food & Drinks,Cash,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+274,21-04-2024,Breakfast,Food & Drinks,Salary Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+275,21-04-2024,Petrol,Transport,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+276,21-04-2024,Tyre,Bills & Fees,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+277,20-04-2024,Shirt,Bills & Fees,Salary Bank,799,INR,EXPENSE,0,None,None,0,None,No-description,None
+278,20-04-2024,Burrito,Food & Drinks,Salary Bank,83,INR,EXPENSE,0,None,None,0,None,No-description,None
+279,20-04-2024,Sid PayUp,Bills & Fees,Salary Bank,89.52,INR,INCOME,0,None,None,0,None,No-description,None
+280,20-04-2024,Ice Cream,Food & Drinks,Salary Bank,88.01,INR,EXPENSE,0,None,None,0,None,No-description,None
+281,20-04-2024,Water,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+282,19-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+283,19-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+284,19-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+285,18-04-2024,Snacks,Food & Drinks,Salary Bank,75,INR,EXPENSE,0,None,None,0,None,No-description,None
+286,18-04-2024,Snacks,Food & Drinks,Salary Bank,130,INR,EXPENSE,0,None,None,0,None,No-description,None
+287,17-04-2024,No title,Unknown,Cash,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+288,17-04-2024,Reacharge,Unknown,Salary Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+289,17-04-2024,AtR,Transport,Cash,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+290,17-04-2024,Withdraw,Unknown,Salary Bank,0,INR,TRANSFER,300,INR,Cash,300,INR,No-description,None
+291,16-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+292,16-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+293,16-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+294,15-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+295,15-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+296,15-04-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+297,15-04-2024,Domain,Bills & Fees,Salary Bank,616.32,INR,EXPENSE,0,None,None,0,None,No-description,None
+298,15-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+299,15-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+300,14-04-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+301,12-04-2024,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+302,12-04-2024,Recharge,Unknown,Salary Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+303,12-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+304,12-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+305,12-04-2024,Adjust balance,Unknown,Metro Card,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+306,10-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+307,10-04-2024,Adjust balance,Unknown,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+308,10-04-2024,Adjust balance,Unknown,Salary Bank,70.99,INR,EXPENSE,0,None,None,0,None,No-description,None
+309,10-04-2024,Gym,Bills & Fees,Salary Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+310,10-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+311,10-04-2024,Shawarma ,Food & Drinks,Salary Bank,140,INR,EXPENSE,0,None,None,0,None,No-description,None
+312,08-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+313,08-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+314,07-04-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+315,07-04-2024,Fest,Bills & Fees,Salary Bank,250,INR,EXPENSE,0,None,None,0,None,No-description,None
+316,06-04-2024,Juice,Food & Drinks,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+317,06-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+318,06-04-2024,Juice,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+319,06-04-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+320,05-04-2024,Juice,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+321,05-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+322,05-04-2024,Recharge,Unknown,Salary Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+323,05-04-2024,Wow,Bills & Fees,Salary Bank,309.84,INR,EXPENSE,0,None,None,0,None,No-description,None
+324,05-04-2024,Juice,Food & Drinks,Salary Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+325,05-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+326,04-04-2024,Snacks,Food & Drinks,Salary Bank,75,INR,EXPENSE,0,None,None,0,None,No-description,None
+327,04-04-2024,Petrol,Bills & Fees,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+328,04-04-2024,Stonks,Bills & Fees,Salary Bank,761.44,INR,INCOME,0,None,None,0,None,No-description,None
+329,03-04-2024,Settlement,Unknown,Salary Bank,0,INR,TRANSFER,"3,199.00",INR,Savings Bank,"3,199.00",INR,No-description,None
+330,03-04-2024,Maa,Bills & Fees,Salary Bank,"10,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+331,03-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+332,03-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+333,02-04-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+334,02-04-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+335,02-04-2024,Juice,Food & Drinks,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+336,02-04-2024,Juice,Food & Drinks,Cash,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+337,02-04-2024,Chotu,Bills & Fees,Cash,60,INR,INCOME,0,None,None,0,None,No-description,None
+338,02-04-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+339,01-04-2024,Netflix,Bills & Fees,Savings Bank,199,INR,EXPENSE,0,None,None,0,None,No-description,None
+340,01-04-2024,Chotu,Bills & Fees,Savings Bank,"3,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+341,01-04-2024,Bhagwat,Bills & Fees,Cash,100,INR,INCOME,0,None,None,0,None,No-description,None
+342,01-04-2024,Snacks,Food & Drinks,Salary Bank,160,INR,EXPENSE,0,None,None,0,None,No-description,None
+343,01-04-2024,Juice,Food & Drinks,Salary Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+344,01-04-2024,Adjust balance,Unknown,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+345,31-03-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+346,31-03-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+347,31-03-2024,Baba,Bills & Fees,Salary Bank,"1,700.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+348,31-03-2024,Shoes,Bills & Fees,Salary Bank,"2,499.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+349,31-03-2024,Haircut,Bills & Fees,Salary Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+350,30-03-2024,Chotu,Bills & Fees,Cash,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+351,29-03-2024,Snacks,Food & Drinks,Salary Bank,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+352,29-03-2024,Maa,Bills & Fees,Salary Bank,"13,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+353,29-03-2024,Breakfast,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+354,28-03-2024,Petrol,Bills & Fees,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+355,28-03-2024,Snacks,Food & Drinks,Salary Bank,250,INR,EXPENSE,0,None,None,0,None,No-description,None
+356,28-03-2024,Settle,Unknown,Salary Bank,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+357,28-03-2024,Salary,Bills & Fees,Salary Bank,"22,700.00",INR,INCOME,0,None,None,0,None,No-description,None
+358,28-03-2024,Transfer,Unknown,Salary Bank,0,INR,TRANSFER,"4,123.00",INR,Savings Bank,"4,123.00",INR,No-description,None
+359,27-03-2024,Ice cream,Food & Drinks,Cash,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+360,26-03-2024,Juice,Food & Drinks,Salary Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+361,26-03-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+362,25-03-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+363,25-03-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+364,25-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+365,25-03-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+366,25-03-2024,Recharge,Unknown,Cash,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+367,24-03-2024,Adjust balance,Unknown,Salary Bank,105,INR,EXPENSE,0,None,None,0,None,No-description,None
+368,22-03-2024,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+369,22-03-2024,Juice,Food & Drinks,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+370,22-03-2024,Snacks,Food & Drinks,Salary Bank,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+371,22-03-2024,Withdraw,Unknown,Salary Bank,0,INR,TRANSFER,500,INR,Cash,500,INR,No-description,None
+372,22-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+373,21-03-2024,Baba,Bills & Fees,Salary Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+374,21-03-2024,Recharge,Bills & Fees,Salary Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+375,21-03-2024,Maa,Bills & Fees,Salary Bank,"2,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+376,21-03-2024,Stonks,Bills & Fees,Salary Bank,230,INR,EXPENSE,0,None,None,0,None,No-description,None
+377,21-03-2024,Petrol,Transport,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+378,19-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+379,19-03-2024,Snacks,Food & Drinks,Salary Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+380,19-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+381,19-03-2024,Shawarma ,Food & Drinks,Salary Bank,260,INR,EXPENSE,0,None,None,0,None,No-description,None
+382,19-03-2024,Bus pass,Bills & Fees,Salary Bank,430,INR,EXPENSE,0,None,None,0,None,No-description,None
+383,18-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+384,17-03-2024,Adjust balance,Unknown,Cash,110,INR,EXPENSE,0,None,None,0,None,No-description,None
+385,16-03-2024,Snacks,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+386,16-03-2024,Rent,Bills & Fees,Salary Bank,"3,800.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+387,15-03-2024,Juice,Food & Drinks,Salary Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+388,15-03-2024,Snacks,Food & Drinks,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+389,15-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+390,15-03-2024,Bike,Transport,Salary Bank,74,INR,EXPENSE,0,None,None,0,None,No-description,None
+391,14-03-2024,Snacks,Food & Drinks,Salary Bank,105,INR,EXPENSE,0,None,None,0,None,No-description,None
+392,13-03-2024,Snacks,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+393,13-03-2024,Bandages,Bills & Fees,Salary Bank,8,INR,EXPENSE,0,None,None,0,None,No-description,None
+394,12-03-2024,Baba,Bills & Fees,Salary Bank,"2,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+395,12-03-2024,Doc,Bills & Fees,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+396,12-03-2024,Juice,Food & Drinks,Salary Bank,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+397,12-03-2024,Shawarma,Food & Drinks,Salary Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+398,12-03-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+399,11-03-2024,Jalebi,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+400,10-03-2024,Category Expense,Bills & Fees,Salary Bank,9,INR,EXPENSE,0,None,None,0,None,No-description,None
+401,10-03-2024,Baba,Bills & Fees,Salary Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+402,09-03-2024,Juice,Food & Drinks,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+403,09-03-2024,Petrol,Transport,Salary Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+404,08-03-2024,Snacks,Food & Drinks,Salary Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+405,08-03-2024,Breakfast,Food & Drinks,Salary Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+406,07-03-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+407,07-03-2024,RtA,Transport,Cash,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+408,07-03-2024,No title,Unknown,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+409,07-03-2024,Adjust balance,Unknown,Cash,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+410,07-03-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+411,07-03-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+412,07-03-2024,Withdraw,Unknown,Salary Bank,0,INR,TRANSFER,200,INR,Cash,200,INR,No-description,None
+413,07-03-2024,Recharge,Unknown,Salary Bank,0,INR,TRANSFER,250,INR,Metro Card,250,INR,No-description,None
+414,06-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+415,06-03-2024,Snacks,Food & Drinks,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+416,06-03-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+417,06-03-2024,RB ,Food & Drinks,Salary Bank,125,INR,EXPENSE,0,None,None,0,None,No-description,None
+418,06-03-2024,Baba,Bills & Fees,Salary Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+419,06-03-2024,Netflix,Bills & Fees,Salary Bank,99,INR,EXPENSE,0,None,None,0,None,No-description,None
+420,06-03-2024,No title,Unknown,Savings Bank,5.53,INR,INCOME,0,None,None,0,None,No-description,None
+421,05-03-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+422,05-03-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+423,05-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+424,04-03-2024,Snacks,Food & Drinks,Salary Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+425,04-03-2024,Snacks,Food & Drinks,Salary Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+426,04-03-2024,RtA,Transport,Cash,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+427,04-03-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+428,04-03-2024,Baba,Bills & Fees,Cash,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+429,04-03-2024,Recharge,Unknown,Salary Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+430,03-03-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+431,03-03-2024,Laptop fixes,Bills & Fees,Salary Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+432,03-03-2024,Juice,Food & Drinks,Salary Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+433,03-03-2024,Snacks,Food & Drinks,Salary Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+434,02-03-2024,Cab,Bills & Fees,Salary Bank,419,INR,EXPENSE,0,None,None,0,None,No-description,None
+435,02-03-2024,Can,Bills & Fees,Salary Bank,476,INR,EXPENSE,0,None,None,0,None,No-description,None
+436,02-03-2024,Dinner,Bills & Fees,Salary Bank,"2,154.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+437,02-03-2024,Gym,Bills & Fees,Salary Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+438,01-03-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+439,01-03-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+440,01-03-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+441,01-03-2024,Baba,Bills & Fees,Salary Bank,"5,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+442,29-02-2024,Fancode,Bills & Fees,Salary Bank,599,INR,EXPENSE,0,None,None,0,None,No-description,None
+443,29-02-2024,Snacks,Food & Drinks,Salary Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+444,29-02-2024,Salary,Unknown,Salary Bank,"22,700.00",INR,INCOME,0,None,None,0,None,No-description,None
+445,29-02-2024,Adjust balance,Unknown,Savings Bank,45.02,INR,EXPENSE,0,None,None,0,None,No-description,None
+446,29-02-2024,Adjust balance,Unknown,Savings Bank,0,INR,INCOME,0,None,None,0,None,No-description,None
+447,29-02-2024,Petrol,Transport,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+448,29-02-2024,Baba,Bills & Fees,Cash,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+449,29-02-2024,Maa,Bills & Fees,Cash,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+450,28-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+451,28-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+452,28-02-2024,Snacks,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+453,28-02-2024,AtR,Transport,Cash,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+454,28-02-2024,Adjust balance,Unknown,Cash,15,INR,EXPENSE,0,None,None,0,None,No-description,None
+455,27-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+456,27-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+457,27-02-2024,Shawarma ,Food & Drinks,Savings Bank,140,INR,EXPENSE,0,None,None,0,None,No-description,None
+458,27-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+459,27-02-2024,Snacks,Food & Drinks,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+460,27-02-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+461,26-02-2024,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,500,INR,Cash,500,INR,No-description,None
+462,26-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+463,26-02-2024,Snacks,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+464,26-02-2024,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+465,26-02-2024,Adjust balance,Unknown,Savings Bank,940,INR,INCOME,0,None,None,0,None,No-description,None
+466,26-02-2024,Adjust balance,Unknown,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+467,26-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+468,26-02-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+469,26-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+470,26-02-2024,Baba,Bills & Fees,Cash,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+471,26-02-2024,Maa,Bills & Fees,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+472,24-02-2024,Snacks,Food & Drinks,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+473,24-02-2024,Snacks,Food & Drinks,Cash,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+474,23-02-2024,Snacks,Food & Drinks,Cash,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+475,23-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+476,23-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+477,23-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+478,23-02-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+479,22-02-2024,Bb,Bills & Fees,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+480,22-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+481,22-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+482,22-02-2024,Stonks,Bills & Fees,Savings Bank,180,INR,EXPENSE,0,None,None,0,None,No-description,None
+483,22-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+484,22-02-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+485,21-02-2024,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+486,21-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+487,21-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+488,21-02-2024,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+489,20-02-2024,Play store,Bills & Fees,Savings Bank,9,INR,EXPENSE,0,None,None,0,None,No-description,None
+490,20-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+491,20-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+492,20-02-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+493,19-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+494,19-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+495,19-02-2024,AtR,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+496,19-02-2024,Reacharge,Unknown,Savings Bank,0,INR,TRANSFER,300,INR,Metro Card,300,INR,No-description,None
+497,18-02-2024,Biryani,Unknown,Savings Bank,0,INR,TRANSFER,230,INR,Cash,230,INR,No-description,None
+498,18-02-2024,Biryani ,Food & Drinks,Savings Bank,250,INR,EXPENSE,0,None,None,0,None,No-description,None
+499,18-02-2024,Juice,Food & Drinks,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+500,18-02-2024,Snacks,Food & Drinks,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+501,18-02-2024,Book,Bills & Fees,Savings Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+502,18-02-2024,Entry fee,Bills & Fees,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+503,17-02-2024,Bus pass,Bills & Fees,Savings Bank,430,INR,EXPENSE,0,None,None,0,None,No-description,None
+504,17-02-2024,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+505,17-02-2024,Adjust balance,Unknown,Cash,16,INR,EXPENSE,0,None,None,0,None,No-description,None
+506,17-02-2024,Adjust balance,Unknown,Savings Bank,130,INR,INCOME,0,None,None,0,None,No-description,None
+507,16-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+508,16-02-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+509,15-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+510,14-02-2024,Snack,Food & Drinks,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+511,14-02-2024,Petrol,Transport,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+512,14-02-2024,Petrol,Transport,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+513,13-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+514,13-02-2024,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+515,13-02-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+516,13-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+517,12-02-2024,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+518,12-02-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+519,12-02-2024,Adjust balance,Unknown,Metro Card,2,INR,INCOME,0,None,None,0,None,No-description,None
+520,11-02-2024,Snacks,Food & Drinks,Savings Bank,130,INR,EXPENSE,0,None,None,0,None,No-description,None
+521,10-02-2024,Snacks,Food & Drinks,Savings Bank,45,INR,EXPENSE,0,None,None,0,None,No-description,None
+522,10-02-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+523,09-02-2024,Snacks,Food & Drinks,Savings Bank,145,INR,EXPENSE,0,None,None,0,None,No-description,None
+524,09-02-2024,Pants,Bills & Fees,Savings Bank,998,INR,EXPENSE,0,None,None,0,None,No-description,None
+525,09-02-2024,No title,Unknown,Savings Bank,2,INR,INCOME,0,None,None,0,None,No-description,None
+526,08-02-2024,Ice cream,Bills & Fees,Savings Bank,102,INR,EXPENSE,0,None,None,0,None,No-description,None
+527,08-02-2024,Pizza,Food & Drinks,Savings Bank,247,INR,EXPENSE,0,None,None,0,None,No-description,None
+528,08-02-2024,No title,Unknown,Savings Bank,2,INR,EXPENSE,0,None,None,0,None,No-description,None
+529,08-02-2024,Shirt,Bills & Fees,Savings Bank,999,INR,EXPENSE,0,None,None,0,None,No-description,None
+530,08-02-2024,Pant,Bills & Fees,Savings Bank,799,INR,EXPENSE,0,None,None,0,None,No-description,None
+531,07-02-2024,RtA,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+532,07-02-2024,UPI lite,Bills & Fees,Savings Bank,1,INR,EXPENSE,0,None,None,0,None,No-description,None
+533,06-02-2024,Bus Pass,Transport,Savings Bank,440,INR,EXPENSE,0,None,None,0,None,No-description,None
+534,06-02-2024,Baba,Bills & Fees,Savings Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+535,05-02-2024,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,400,INR,Cash,400,INR,No-description,None
+536,05-02-2024,Snacks,Food & Drinks,Savings Bank,90,INR,EXPENSE,0,None,None,0,None,No-description,None
+537,05-02-2024,Exam,Bills & Fees,Savings Bank,400,INR,EXPENSE,0,None,None,0,None,No-description,None
+538,05-02-2024,Adjust balance,Unknown,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+539,03-02-2024,Stonks,Bills & Fees,Savings Bank,4.45,INR,INCOME,0,None,None,0,None,No-description,None
+540,03-02-2024,Baba birthday,Bills & Fees,Savings Bank,839,INR,EXPENSE,0,None,None,0,None,No-description,None
+541,03-02-2024,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+542,03-02-2024,Baba,Bills & Fees,Savings Bank,"2,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+543,02-02-2024,Petrol,Transport,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+544,02-02-2024,Book,Bills & Fees,Savings Bank,299,INR,EXPENSE,0,None,None,0,None,No-description,None
+545,01-02-2024,Netflix,Bills & Fees,Savings Bank,99,INR,EXPENSE,0,None,None,0,None,No-description,None
+546,01-02-2024,Snacks,Food & Drinks,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+547,01-02-2024,Petrol,Bills & Fees,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+548,01-02-2024,Chotu,Bills & Fees,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+549,01-02-2024,Gym,Bills & Fees,Savings Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+550,31-01-2024,Milk,Bills & Fees,Savings Bank,88,INR,EXPENSE,0,None,None,0,None,No-description,None
+551,31-01-2024,Petrol,Transport,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+552,31-01-2024,Sid,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+553,31-01-2024,Baba,Bills & Fees,Savings Bank,"5,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+554,31-01-2024,Snacks,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+555,31-01-2024,Chotu,Bills & Fees,Savings Bank,100,INR,INCOME,0,None,None,0,None,No-description,None
+556,31-01-2024,Petrol,Bills & Fees,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+557,31-01-2024,Salary,Bills & Fees,Savings Bank,"22,700.00",INR,INCOME,0,None,None,0,None,No-description,None
+558,30-01-2024,Baba,Bills & Fees,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+559,30-01-2024,Sid,Bills & Fees,Savings Bank,200,INR,INCOME,0,None,None,0,None,No-description,None
+560,30-01-2024,Oil,Bills & Fees,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+561,29-01-2024,Baba,Bills & Fees,Savings Bank,100,INR,INCOME,0,None,None,0,None,No-description,None
+562,29-01-2024,RtA,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+563,29-01-2024,Tire,Bills & Fees,Savings Bank,700,INR,EXPENSE,0,None,None,0,None,No-description,None
+564,27-01-2024,Adjust balance,Unknown,Cash,26,INR,INCOME,0,None,None,0,None,No-description,None
+565,27-01-2024,Petrol,Bills & Fees,Savings Bank,250,INR,EXPENSE,0,None,None,0,None,No-description,None
+566,27-01-2024,Noodles,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+567,27-01-2024,Xerox,Bills & Fees,Savings Bank,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+568,27-01-2024,Xerox,Bills & Fees,Savings Bank,27,INR,EXPENSE,0,None,None,0,None,No-description,None
+569,26-01-2024,Snacks,Food & Drinks,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+570,25-01-2024,Snacks,Food & Drinks,Savings Bank,120,INR,EXPENSE,0,None,None,0,None,No-description,None
+571,24-01-2024,AtR,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+572,24-01-2024,Adjust Balance,Unknown,Savings Bank,1,INR,EXPENSE,0,None,None,0,None,No-description,None
+573,24-01-2024,License,Bills & Fees,Savings Bank,300,INR,EXPENSE,0,None,None,0,None,No-description,None
+574,23-01-2024,Snacks,Food & Drinks,Savings Bank,115,INR,EXPENSE,0,None,None,0,None,No-description,None
+575,22-01-2024,Grand original,Bills & Fees,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+576,21-01-2024,Shampoo,Bills & Fees,Savings Bank,4,INR,EXPENSE,0,None,None,0,None,No-description,None
+577,21-01-2024,Haircut,Bills & Fees,Savings Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+578,20-01-2024,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+579,20-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+580,18-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+581,18-01-2024,Snacks,Food & Drinks,Savings Bank,111,INR,EXPENSE,0,None,None,0,None,No-description,None
+582,16-01-2024,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+583,16-01-2024,Shawarma ,Food & Drinks,Savings Bank,130,INR,EXPENSE,0,None,None,0,None,No-description,None
+584,16-01-2024,Bike,Transport,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+585,16-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+586,16-01-2024,Rent,Bills & Fees,Savings Bank,"3,500.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+587,15-01-2024,Juice,Food & Drinks,Savings Bank,75,INR,EXPENSE,0,None,None,0,None,No-description,None
+588,14-01-2024,Recharge,Bills & Fees,Savings Bank,0.9,INR,EXPENSE,0,None,None,0,None,No-description,None
+589,13-01-2024,Snack,Transport,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+590,13-01-2024,Snacks,Bills & Fees,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+591,13-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+592,12-01-2024,RtA,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+593,12-01-2024,Burger AM,Food & Drinks,Savings Bank,99,INR,EXPENSE,0,None,None,0,None,No-description,None
+594,12-01-2024,Breakfast,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+595,11-01-2024,Aloo bhujia,Food & Drinks,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+596,11-01-2024,Adjust balance,Unknown,Cash,16,INR,INCOME,0,None,None,0,None,No-description,None
+597,11-01-2024,Something,Unknown,Cash,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+598,11-01-2024,Stonks,Bills & Fees,Savings Bank,400,INR,EXPENSE,0,None,None,0,None,No-description,None
+599,11-01-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+600,11-01-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+601,10-01-2024,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+602,10-01-2024,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+603,09-01-2024,Sid PayUp,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+604,09-01-2024,Adjust balance,Unknown,Savings Bank,50.22,INR,EXPENSE,0,None,None,0,None,No-description,None
+605,09-01-2024,Adjust balance,Unknown,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+606,09-01-2024,Sid PayUp,Bills & Fees,Savings Bank,200,INR,INCOME,0,None,None,0,None,No-description,None
+607,09-01-2024,RtA,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+608,09-01-2024,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,100,INR,Metro Card,100,INR,No-description,None
+609,09-01-2024,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+610,08-01-2024,Payup,Food & Drinks,Savings Bank,280,INR,EXPENSE,0,None,None,0,None,No-description,None
+611,08-01-2024,Scholarship,Bills & Fees,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+612,07-01-2024,Juice,Food & Drinks,Cash,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+613,07-01-2024,Gala nyt,Bills & Fees,Savings Bank,600,INR,EXPENSE,0,None,None,0,None,No-description,None
+614,07-01-2024,Parking,Bills & Fees,Savings Bank,15,INR,EXPENSE,0,None,None,0,None,No-description,None
+615,07-01-2024,Stationary,Bills & Fees,Savings Bank,72,INR,EXPENSE,0,None,None,0,None,No-description,None
+616,06-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+617,06-01-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+618,06-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+619,04-01-2024,Snacks,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+620,04-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+621,02-01-2024,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+622,02-01-2024,Snacks,Food & Drinks,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+623,02-01-2024,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+624,02-01-2024,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+625,01-01-2024,Cake,Food & Drinks,Savings Bank,300,INR,EXPENSE,0,None,None,0,None,No-description,None
+626,01-01-2024,Party,Bills & Fees,Savings Bank,350,INR,EXPENSE,0,None,None,0,None,No-description,None
+627,30-12-2023,Breakfast,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+628,29-12-2023,Goje Payback,Bills & Fees,Savings Bank,30,INR,INCOME,0,None,None,0,None,No-description,None
+629,29-12-2023,Snacks,Food & Drinks,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+630,29-12-2023,Help,Unknown,Cash,0,INR,TRANSFER,100,INR,Savings Bank,100,INR,No-description,None
+631,29-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+632,29-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+633,28-12-2023,Salary,Bills & Fees,Savings Bank,"3,130.00",INR,INCOME,0,None,None,0,None,No-description,None
+634,28-12-2023,Breakfast,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+635,27-12-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+636,27-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+637,27-12-2023,Stationary,Bills & Fees,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+638,27-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+639,26-12-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+640,26-12-2023,Lunch,Food & Drinks,Savings Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+641,26-12-2023,Adjust balance,Unknown,Cash,45,INR,EXPENSE,0,None,None,0,None,No-description,None
+642,26-12-2023,Breakfast,Food & Drinks,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+643,25-12-2023,Bread,Food & Drinks,Savings Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+644,25-12-2023,Lunch,Food & Drinks,Savings Bank,220,INR,EXPENSE,0,None,None,0,None,No-description,None
+645,25-12-2023,Tea,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+646,25-12-2023,Water,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+647,25-12-2023,Breakfast,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+648,25-12-2023,Breakfast,Food & Drinks,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+649,25-12-2023,Chicken keema,Food & Drinks,Savings Bank,187.2,INR,EXPENSE,0,None,None,0,None,No-description,None
+650,25-12-2023,Interest,Unknown,Savings Bank,30,INR,INCOME,0,None,None,0,None,No-description,None
+651,24-12-2023,Breakfast,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+652,24-12-2023,Coffee,Food & Drinks,Savings Bank,4,INR,EXPENSE,0,None,None,0,None,No-description,None
+653,24-12-2023,Coffee,Food & Drinks,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+654,23-12-2023,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+655,22-12-2023,Snacks,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+656,22-12-2023,Payup,Bills & Fees,Cash,200,INR,INCOME,0,None,None,0,None,No-description,None
+657,22-12-2023,Payup,Bills & Fees,Savings Bank,700,INR,INCOME,0,None,None,0,None,No-description,None
+658,22-12-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+659,22-12-2023,Ticket refund,Bills & Fees,Savings Bank,170.56,INR,INCOME,0,None,None,0,None,No-description,None
+660,22-12-2023,Juice,Food & Drinks,Savings Bank,130,INR,EXPENSE,0,None,None,0,None,No-description,None
+661,22-12-2023,Payup,Food & Drinks,Savings Bank,40,INR,INCOME,0,None,None,0,None,No-description,None
+662,22-12-2023,Pizza,Food & Drinks,Savings Bank,170,INR,EXPENSE,0,None,None,0,None,No-description,None
+663,21-12-2023,Tickets,Bills & Fees,Savings Bank,376,INR,EXPENSE,0,None,None,0,None,No-description,None
+664,21-12-2023,Gift ,Bills & Fees,Savings Bank,"1,550.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+665,21-12-2023,Stonks Return,Bills & Fees,Savings Bank,83.66,INR,INCOME,0,None,None,0,None,No-description,None
+666,20-12-2023,Shawarma ,Food & Drinks,Savings Bank,330,INR,EXPENSE,0,None,None,0,None,No-description,None
+667,20-12-2023,Snacks,Food & Drinks,Savings Bank,55,INR,EXPENSE,0,None,None,0,None,No-description,None
+668,20-12-2023,Recharge,Bills & Fees,Savings Bank,257.9,INR,EXPENSE,0,None,None,0,None,No-description,None
+669,20-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+670,20-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+671,20-12-2023,Snacks,Food & Drinks,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+672,19-12-2023,Cashback,Bills & Fees,Savings Bank,3,INR,INCOME,0,None,None,0,None,No-description,None
+673,18-12-2023,Adjust balance,Unknown,Cash,300,INR,INCOME,0,None,None,0,None,No-description,None
+674,18-12-2023,Adjust balance,Unknown,Savings Bank,2,INR,INCOME,0,None,None,0,None,No-description,None
+675,18-12-2023,Weekend,Food & Drinks,Savings Bank,290,INR,EXPENSE,0,None,None,0,None,No-description,None
+676,16-12-2023,Card maintenance,Bills & Fees,Savings Bank,295,INR,EXPENSE,0,None,None,0,None,No-description,None
+677,16-12-2023,Bus Pass,Transport,Savings Bank,430,INR,EXPENSE,0,None,None,0,None,No-description,None
+678,16-12-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+679,15-12-2023,Goje Payback,Food & Drinks,Cash,30,INR,INCOME,0,None,None,0,None,No-description,None
+680,15-12-2023,Sid PayUp,Food & Drinks,Savings Bank,40,INR,INCOME,0,None,None,0,None,No-description,None
+681,15-12-2023,Juice,Food & Drinks,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+682,15-12-2023,Snacks,Food & Drinks,Savings Bank,105,INR,EXPENSE,0,None,None,0,None,No-description,None
+683,15-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+684,15-12-2023,Snacks,Food & Drinks,Cash,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+685,14-12-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+686,13-12-2023,Biryani,Bills & Fees,Savings Bank,520,INR,EXPENSE,0,None,None,0,None,No-description,None
+687,13-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+688,13-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+689,13-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+690,12-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+691,12-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+692,11-12-2023,Adjust balance,Unknown,Savings Bank,2,INR,EXPENSE,0,None,None,0,None,No-description,None
+693,11-12-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+694,11-12-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+695,10-12-2023,Bonda,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+696,09-12-2023,Snacks,Food & Drinks,Savings Bank,130,INR,EXPENSE,0,None,None,0,None,No-description,None
+697,09-12-2023,Gpay,Bills & Fees,Savings Bank,25,INR,INCOME,0,None,None,0,None,No-description,None
+698,09-12-2023,No title,Unknown,Metro Card,2,INR,EXPENSE,0,None,None,0,None,No-description,None
+699,09-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+700,08-12-2023,Snacks,Food & Drinks,Savings Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+701,08-12-2023,Adjust balance,Unknown,Savings Bank,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+702,08-12-2023,Printouts,Bills & Fees,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+703,08-12-2023,Coke,Food & Drinks,Savings Bank,15,INR,EXPENSE,0,None,None,0,None,No-description,None
+704,08-12-2023,Adjust balance,Unknown,Cash,95,INR,INCOME,0,None,None,0,None,No-description,None
+705,07-12-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+706,07-12-2023,Withdraw,Unknown,Savings Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+707,07-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+708,07-12-2023,Adjust balance,Unknown,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+709,07-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+710,06-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+711,06-12-2023,Help,Unknown,Savings Bank,0,INR,TRANSFER,120,INR,Cash,120,INR,No-description,None
+712,06-12-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+713,06-12-2023,Adjust balance,Unknown,Cash,80,INR,INCOME,0,None,None,0,None,No-description,None
+714,06-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+715,06-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+716,05-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+717,05-12-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+718,04-12-2023,Snacks,Food & Drinks,Savings Bank,75,INR,EXPENSE,0,None,None,0,None,No-description,None
+719,04-12-2023,Jalebi,Food & Drinks,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+720,04-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+721,04-12-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+722,02-12-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+723,02-12-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+724,01-12-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+725,01-12-2023,Adjust balance,Unknown,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+726,01-12-2023,Chotu,Bills & Fees,Savings Bank,220,INR,INCOME,0,None,None,0,None,No-description,None
+727,01-12-2023,AtrR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+728,29-11-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+729,29-11-2023,AtrR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+730,29-11-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+731,29-11-2023,Biryani ,Food & Drinks,Savings Bank,520,INR,EXPENSE,0,None,None,0,None,No-description,None
+732,29-11-2023,Shawarma ,Food & Drinks,Savings Bank,140,INR,EXPENSE,0,None,None,0,None,No-description,None
+733,29-11-2023,Lunch payup,Food & Drinks,Savings Bank,552,INR,EXPENSE,0,None,None,0,None,8500264412,None
+734,29-11-2023,Baba,Bills & Fees,Savings Bank,"10,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+735,29-11-2023,Salary,Unknown,Savings Bank,"22,283.00",INR,INCOME,0,None,None,0,None,No-description,None
+736,29-11-2023,Chotu,Bills & Fees,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+737,28-11-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+738,28-11-2023,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+739,27-11-2023,AtrR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+740,26-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+741,26-11-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+742,26-11-2023,Shampoo,Bills & Fees,Savings Bank,4,INR,EXPENSE,0,None,None,0,None,No-description,None
+743,25-11-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+744,25-11-2023,Adjust balance,Unknown,Savings Bank,19.2,INR,EXPENSE,0,None,None,0,None,No-description,None
+745,25-11-2023,Exam fees,Bills & Fees,Savings Bank,800,INR,EXPENSE,0,None,None,0,None,No-description,None
+746,24-11-2023,Snacks,Food & Drinks,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+747,23-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+748,23-11-2023,AtrR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+749,23-11-2023,Something,Bills & Fees,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+750,22-11-2023,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+751,22-11-2023,AtrR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+752,22-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+753,21-11-2023,Curd,Bills & Fees,Savings Bank,46,INR,EXPENSE,0,None,None,0,None,No-description,None
+754,21-11-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+755,21-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+756,21-11-2023,Chotu pass,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+757,21-11-2023,AtrR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+758,21-11-2023,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+759,20-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+760,20-11-2023,Maa,Bills & Fees,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+761,20-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+762,19-11-2023,Adjust balance,Unknown,Cash,20,INR,INCOME,0,None,None,0,None,No-description,None
+763,18-11-2023,Bus pass,Transport,Savings Bank,430,INR,EXPENSE,0,None,None,0,None,No-description,None
+764,18-11-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+765,18-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+766,17-11-2023,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Cash,200,INR,No-description,None
+767,17-11-2023,Saman,Bills & Fees,Savings Bank,153,INR,EXPENSE,0,None,None,0,None,No-description,None
+768,17-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+769,17-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+770,16-11-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+771,16-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+772,16-11-2023,Adjust balance,Unknown,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+773,16-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+774,16-11-2023,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+775,15-11-2023,AtR,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+776,14-11-2023,Adjust balance,Unknown,Savings Bank,13.2,INR,INCOME,0,None,None,0,None,No-description,None
+777,14-11-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+778,14-11-2023,Maa,Unknown,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+779,13-11-2023,Print,Bills & Fees,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+780,13-11-2023,AtR,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+781,12-11-2023,Snacks,Food & Drinks,Savings Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+782,12-11-2023,Clothes,Bills & Fees,Savings Bank,"1,050.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+783,12-11-2023,Clothes,Bills & Fees,Savings Bank,"1,607.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+784,11-11-2023,Snacks,Food & Drinks,Savings Bank,105,INR,EXPENSE,0,None,None,0,None,No-description,None
+785,11-11-2023,Snacks,Food & Drinks,Savings Bank,140,INR,EXPENSE,0,None,None,0,None,No-description,None
+786,11-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+787,11-11-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+788,10-11-2023,Haircut,Bills & Fees,Savings Bank,150,INR,EXPENSE,0,None,None,0,None,No-description,None
+789,10-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+790,10-11-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+791,10-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+792,09-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+793,09-11-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+794,09-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+795,08-11-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+796,08-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+797,08-11-2023,DishTV,Bills & Fees,Savings Bank,220,INR,EXPENSE,0,None,None,0,None,No-description,None
+798,08-11-2023,Juice,Food & Drinks,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+799,08-11-2023,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+800,07-11-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+801,07-11-2023,Electricity,Bills & Fees,Savings Bank,774,INR,EXPENSE,0,None,None,0,None,No-description,None
+802,07-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+803,07-11-2023,Rapido,Transport,Savings Bank,44,INR,EXPENSE,0,None,None,0,None,No-description,None
+804,06-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+805,05-11-2023,Maida,Bills & Fees,Savings Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+806,05-11-2023,Adjust,Unknown,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+807,04-11-2023,Sid,Food & Drinks,Savings Bank,140,INR,EXPENSE,0,None,None,0,None,No-description,None
+808,04-11-2023,Printouts,Bills & Fees,Savings Bank,385,INR,EXPENSE,0,None,None,0,None,No-description,None
+809,04-11-2023,Treat,Food & Drinks,Savings Bank,650,INR,EXPENSE,0,None,None,0,None,No-description,None
+810,03-11-2023,Chotu,Bills & Fees,Savings Bank,"2,400.00",INR,INCOME,0,None,None,0,None,No-description,None
+811,03-11-2023,Seminar print,Bills & Fees,Savings Bank,104,INR,EXPENSE,0,None,None,0,None,No-description,None
+812,03-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+813,02-11-2023,Amazon,Bills & Fees,Savings Bank,"1,899.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+814,02-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+815,01-11-2023,Grocery,Bills & Fees,Savings Bank,"2,320.78",INR,EXPENSE,0,None,None,0,None,No-description,None
+816,01-11-2023,Biryani,Food & Drinks,Savings Bank,520,INR,EXPENSE,0,None,None,0,None,No-description,None
+817,01-11-2023,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+818,01-11-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+819,01-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+820,01-11-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+821,01-11-2023,Shampoo,Bills & Fees,Savings Bank,4,INR,EXPENSE,0,None,None,0,None,No-description,None
+822,31-10-2023,Salary,Bills & Fees,Savings Bank,"11,033.00",INR,INCOME,0,None,None,0,None,No-description,None
+823,31-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+824,31-10-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+825,30-10-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+826,30-10-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+827,28-10-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+828,27-10-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+829,27-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+830,27-10-2023,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,100,INR,Metro Card,100,INR,No-description,None
+831,26-10-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+832,26-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+833,26-10-2023,Chotu,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+834,26-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+835,25-10-2023,Adjust balance,Unknown,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+836,25-10-2023,Adjust balance,Unknown,Cash,44,INR,EXPENSE,0,None,None,0,None,No-description,None
+837,25-10-2023,Nidhish Payup,Bills & Fees,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+838,25-10-2023,Recharge,Bills & Fees,Savings Bank,470.82,INR,EXPENSE,0,None,None,0,None,No-description,None
+839,25-10-2023,Baba,Bills & Fees,Savings Bank,600,INR,INCOME,0,None,None,0,None,No-description,None
+840,24-10-2023,Biryani ,Food & Drinks,Savings Bank,356,INR,EXPENSE,0,None,None,0,None,No-description,None
+841,24-10-2023,Maa,Bills & Fees,Savings Bank,200,INR,INCOME,0,None,None,0,None,No-description,None
+842,24-10-2023,Egg Roll ,Food & Drinks,Savings Bank,140,INR,EXPENSE,0,None,None,0,None,No-description,None
+843,24-10-2023,Bus Pass ,Transport,Savings Bank,440,INR,EXPENSE,0,None,None,0,None,No-description,None
+844,24-10-2023,Adjust,Bills & Fees,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+845,23-10-2023,Rapido ,Transport,Savings Bank,74,INR,EXPENSE,0,None,None,0,None,No-description,None
+846,23-10-2023,Adjust,Bills & Fees,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+847,22-10-2023,Egg roll ,Food & Drinks,Savings Bank,160,INR,EXPENSE,0,None,None,0,None,No-description,None
+848,22-10-2023,Nidhish Paid,Bills & Fees,Savings Bank,60,INR,INCOME,0,None,None,0,None,No-description,None
+849,22-10-2023,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+850,22-10-2023,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+851,22-10-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+852,22-10-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+853,22-10-2023,Maa,Bills & Fees,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+854,21-10-2023,Juice,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+855,21-10-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+856,20-10-2023,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+857,20-10-2023,PtA,Transport,Metro Card,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+858,20-10-2023,HtP,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+859,20-10-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+860,20-10-2023,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+861,19-10-2023,RtA,Transport,Metro Card,45,INR,EXPENSE,0,None,None,0,None,No-description,None
+862,19-10-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+863,18-10-2023,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,50,INR,Metro Card,50,INR,No-description,None
+864,18-10-2023,Snacks,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+865,18-10-2023,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,500,INR,Cash,500,INR,No-description,None
+866,18-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+867,18-10-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+868,18-10-2023,Adjust balance,Unknown,Savings Bank,20,INR,INCOME,0,None,None,0,None,No-description,None
+869,18-10-2023,Recharge,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Metro Card,200,INR,No-description,None
+870,17-10-2023,Stonks,Bills & Fees,Savings Bank,111,INR,EXPENSE,0,None,None,0,None,No-description,None
+871,17-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+872,17-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+873,17-10-2023,Metro,Transport,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+874,17-10-2023,Chotu,Bills & Fees,Savings Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+875,17-10-2023,Baba,Bills & Fees,Savings Bank,"2,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+876,16-10-2023,Capt. Payment,Bills & Fees,Savings Bank,"5,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+877,15-10-2023,Adjust balance,Unknown,Savings Bank,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+878,15-10-2023,Adjust balance,Unknown,Cash,8,INR,INCOME,0,None,None,0,None,No-description,None
+879,06-10-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+880,06-10-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+881,05-10-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+882,05-10-2023,Baba,Bills & Fees,Cash,90,INR,INCOME,0,None,None,0,None,No-description,None
+883,03-10-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+884,03-10-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+885,30-09-2023,Baba,Bills & Fees,Savings Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+886,30-09-2023,Snacks,Food & Drinks,Savings Bank,55,INR,EXPENSE,0,None,None,0,None,No-description,None
+887,29-09-2023,Auto+Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+888,28-09-2023,Baba,Bills & Fees,Savings Bank,500,INR,EXPENSE,0,None,None,0,None,No-description,None
+889,28-09-2023,Snacks,Food & Drinks,Savings Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+890,28-09-2023,Adjust balance,Unknown,Cash,4,INR,EXPENSE,0,None,None,0,None,No-description,None
+891,28-09-2023,Baba,Bills & Fees,Savings Bank,"1,000.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+892,28-09-2023,Chotu,Bills & Fees,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+893,27-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+894,27-09-2023,Sid,Bills & Fees,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+895,25-09-2023,Interest,Bills & Fees,Savings Bank,3,INR,INCOME,0,None,None,0,None,No-description,None
+896,25-09-2023,Snacks,Food & Drinks,Savings Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+897,25-09-2023,Jalebi,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+898,25-09-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+899,25-09-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+900,23-09-2023,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+901,23-09-2023,Adjust balance,Unknown,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+902,23-09-2023,Adjust balance,Unknown,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+903,23-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+904,23-09-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+905,23-09-2023,Chotu,Bills & Fees,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+906,22-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+907,21-09-2023,Advance,Unknown,Savings Bank,"3,001.00",INR,INCOME,0,None,None,0,None,No-description,None
+908,20-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+909,19-09-2023,Prints,Bills & Fees,Savings Bank,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+910,19-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+911,19-09-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+912,18-09-2023,Parking,Bills & Fees,Cash,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+913,16-09-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+914,15-09-2023,Pastry,Food & Drinks,Cash,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+915,15-09-2023,Transport,Transport,Cash,45,INR,EXPENSE,0,None,None,0,None,No-description,None
+916,15-09-2023,Bus incident,Unknown,Savings Bank,0,INR,TRANSFER,20,INR,Cash,20,INR,No-description,None
+917,15-09-2023,Snacks,Food & Drinks,Savings Bank,30,INR,INCOME,0,None,None,0,None,No-description,None
+918,15-09-2023,Drink,Transport,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+919,15-09-2023,Snacks,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+920,14-09-2023,Adjust balance,Unknown,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+921,14-09-2023,Adjust balance,Unknown,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+922,14-09-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+923,14-09-2023,Sid,Bills & Fees,Savings Bank,56,INR,EXPENSE,0,None,None,0,None,No-description,None
+924,14-09-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+925,13-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+926,11-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+927,11-09-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+928,11-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+929,10-09-2023,Snacks,Food & Drinks,Savings Bank,140,INR,EXPENSE,0,None,None,0,None,No-description,None
+930,09-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+931,08-09-2023,No title,Unknown,Savings Bank,64,INR,EXPENSE,0,None,None,0,None,No-description,None
+932,08-09-2023,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,500,INR,Cash,500,INR,No-description,None
+933,08-09-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+934,08-09-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+935,07-09-2023,Snacks,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+936,06-09-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+937,06-09-2023,Adjust balance,Unknown,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+938,06-09-2023,Adjust balance,Unknown,Savings Bank,"1,040.00",INR,INCOME,0,None,None,0,None,No-description,None
+939,23-08-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+940,22-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+941,21-08-2023,Pass,Transport,Cash,430,INR,EXPENSE,0,None,None,0,None,No-description,None
+942,21-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+943,21-08-2023,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+944,21-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+945,21-08-2023,Add,Bills & Fees,Cash,50,INR,INCOME,0,None,None,0,None,No-description,None
+946,18-08-2023,Chotu,Bills & Fees,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+947,18-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+948,18-08-2023,Pocket Money,Bills & Fees,Cash,600,INR,INCOME,0,None,None,0,None,No-description,None
+949,18-08-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+950,17-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+951,17-08-2023,Stickers,Bills & Fees,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+952,16-08-2023,Stationary,Bills & Fees,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+953,16-08-2023,Juice,Food & Drinks,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+954,16-08-2023,Goje payback,Bills & Fees,Savings Bank,50,INR,INCOME,0,None,None,0,None,No-description,None
+955,16-08-2023,Samosa,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+956,16-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+957,16-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+958,16-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+959,15-08-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+960,14-08-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+961,14-08-2023,Juice,Food & Drinks,Savings Bank,15,INR,EXPENSE,0,None,None,0,None,No-description,None
+962,14-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+963,12-08-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+964,11-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+965,10-08-2023,No title,Unknown,Cash,200,INR,INCOME,0,None,None,0,None,No-description,None
+966,10-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+967,09-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+968,08-08-2023,Snacks,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+969,08-08-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+970,07-08-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+971,05-08-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+972,05-08-2023,Auto,Transport,Cash,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+973,04-08-2023,Snacks,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+974,04-08-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+975,02-08-2023,Computer stuff,Bills & Fees,Savings Bank,470,INR,EXPENSE,0,None,None,0,None,No-description,None
+976,31-07-2023,Goje,Unknown,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+977,31-07-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+978,31-07-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+979,29-07-2023,Shawarma,Food & Drinks,Savings Bank,120,INR,EXPENSE,0,None,None,0,None,No-description,None
+980,28-07-2023,Adjust balance,Unknown,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+981,28-07-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+982,28-07-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+983,27-07-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+984,24-07-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+985,24-07-2023,No title,Unknown,Cash,100,INR,INCOME,0,None,None,0,None,No-description,None
+986,23-07-2023,Chotu,Bills & Fees,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+987,22-07-2023,Something,Bills & Fees,Savings Bank,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+988,21-07-2023,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+989,19-07-2023,Adjust balance,Unknown,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+990,19-07-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+991,18-07-2023,Pocket money,Unknown,Savings Bank,"1,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+992,18-07-2023,Curd,Bills & Fees,Savings Bank,48,INR,EXPENSE,0,None,None,0,None,No-description,None
+993,14-07-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+994,14-07-2023,Snacks,Food & Drinks,Savings Bank,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+995,13-07-2023,Adjust balance,Unknown,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+996,13-07-2023,Adjust balance,Unknown,Metro Card,95,INR,EXPENSE,0,None,None,0,None,No-description,None
+997,13-07-2023,Curd,Bills & Fees,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+998,12-07-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+999,12-07-2023,Juice,Food & Drinks,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1000,12-07-2023,Snacks,Food & Drinks,Savings Bank,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+1001,12-07-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1002,10-07-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1003,05-07-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1004,05-07-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1005,04-07-2023,No title,Unknown,Cash,210,INR,INCOME,0,None,None,0,None,No-description,None
+1006,04-07-2023,Pen,Bills & Fees,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1007,04-07-2023,No title,Unknown,Savings Bank,84,INR,INCOME,0,None,None,0,None,No-description,None
+1008,13-06-2023, Category Expense,Food & Drinks,Savings Bank,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+1009,12-06-2023,Goje,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1010,11-06-2023,Mom,Bills & Fees,Savings Bank,"11,500.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+1011,10-06-2023,Book,Bills & Fees,Savings Bank,180,INR,EXPENSE,0,None,None,0,None,No-description,None
+1012,10-06-2023,No title,Unknown,Savings Bank,0,INR,TRANSFER,100,INR,Metro Card,100,INR,No-description,None
+1013,10-06-2023,Salary,Bills & Fees,Savings Bank,"8,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+1014,10-06-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1015,09-06-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1016,09-06-2023,No title,Unknown,Cash,3,INR,INCOME,0,None,None,0,None,No-description,None
+1017,09-06-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1018,09-06-2023,Maa,Unknown,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+1019,08-06-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1020,07-06-2023,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1021,07-06-2023,Exam fees,Bills & Fees,Savings Bank,800,INR,EXPENSE,0,None,None,0,None,No-description,None
+1022,07-06-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1023,07-06-2023,Record books,Bills & Fees,Savings Bank,360,INR,EXPENSE,0,None,None,0,None,No-description,None
+1024,06-06-2023,Chotu,Unknown,Savings Bank,0,INR,TRANSFER,170,INR,Cash,170,INR,No-description,None
+1025,06-06-2023,Adjust,Unknown,Cash,60,INR,EXPENSE,0,None,None,0,None,No-description,None
+1026,06-06-2023,Adjust,Unknown,Cash,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+1027,06-06-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1028,05-06-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1029,05-06-2023,Juice,Food & Drinks,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1030,05-06-2023,Snacks,Food & Drinks,Savings Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+1031,05-06-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1032,04-06-2023,Adjust,Unknown,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+1033,03-06-2023,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1034,03-06-2023,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1035,02-06-2023,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1036,01-06-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1037,01-06-2023,Medic,Bills & Fees,Savings Bank,53.27,INR,EXPENSE,0,None,None,0,None,No-description,None
+1038,31-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1039,31-05-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1040,30-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1041,30-05-2023,Maa,Unknown,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1042,29-05-2023,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1043,29-05-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1044,28-05-2023,Adjust,Unknown,Cash,7,INR,INCOME,0,None,None,0,None,No-description,None
+1045,28-05-2023,Adjust,Unknown,Cash,153,INR,INCOME,0,None,None,0,None,No-description,None
+1046,28-05-2023,Suit,Bills & Fees,Savings Bank,"3,499.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+1047,27-05-2023,Breakfast,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1048,26-05-2023,Baba payback,Unknown,Savings Bank,"1,400.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+1049,25-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1050,25-05-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1051,24-05-2023,Juice,Food & Drinks,Savings Bank,25,INR,EXPENSE,0,None,None,0,None,No-description,None
+1052,24-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1053,23-05-2023,Auto+Bus,Transport,Cash,50,INR,EXPENSE,0,None,None,0,None,No-description,None
+1054,23-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1055,23-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1056,23-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1057,21-05-2023,Recharge,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+1058,20-05-2023,Shrenik paid,Unknown,Savings Bank,150,INR,INCOME,0,None,None,0,None,No-description,None
+1059,20-05-2023,Snacks,Food & Drinks,Savings Bank,100,INR,EXPENSE,0,None,None,0,None,No-description,None
+1060,20-05-2023,Ice cream,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1061,20-05-2023,OGT paid,Unknown,Savings Bank,"2,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+1062,20-05-2023,Chotu,Unknown,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1063,19-05-2023,Bus pass,Transport,Cash,430,INR,EXPENSE,0,None,None,0,None,No-description,None
+1064,19-05-2023,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,500,INR,Cash,500,INR,No-description,None
+1065,18-05-2023,Ice cream,Food & Drinks,Savings Bank,75,INR,EXPENSE,0,None,None,0,None,No-description,None
+1066,18-05-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+1067,18-05-2023,Snacks,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1068,18-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1069,18-05-2023,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Cash,200,INR,No-description,None
+1070,17-05-2023,Bus,Transport,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1071,16-05-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1072,16-05-2023,Snacks,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1073,14-05-2023,Adjust,Unknown,Cash,30,INR,INCOME,0,None,None,0,None,No-description,None
+1074,14-05-2023,Sid payUp,Unknown,Savings Bank,631,INR,EXPENSE,0,None,None,0,None,No-description,None
+1075,13-05-2023,Payment,Unknown,Savings Bank,"8,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+1076,13-05-2023,Juice,Food & Drinks,Savings Bank,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+1077,13-05-2023,Juice,Food & Drinks,Savings Bank,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1078,13-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1079,12-05-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1080,11-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1081,10-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1082,10-05-2023,Snacks,Food & Drinks,Cash,15,INR,EXPENSE,0,None,None,0,None,No-description,None
+1083,09-05-2023,Bus: RtG,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1084,09-05-2023,No title,Transport,Cash,40,INR,INCOME,0,None,None,0,None,No-description,None
+1085,09-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1086,08-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1087,08-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1088,07-05-2023,Category Expense,Bills & Fees,Savings Bank,8,INR,EXPENSE,0,None,None,0,None,No-description,None
+1089,07-05-2023,Snack,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1090,06-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1091,06-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1092,05-05-2023,Stonks Return,Bills & Fees,Savings Bank,50.43,INR,INCOME,0,None,None,0,None,No-description,None
+1093,05-05-2023,Goje,Food & Drinks,Cash,40,INR,INCOME,0,None,None,0,None,No-description,None
+1094,05-05-2023,Bonda,Food & Drinks,Savings Bank,70,INR,EXPENSE,0,None,None,0,None,No-description,None
+1095,04-05-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1096,03-05-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+1097,03-05-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1098,03-05-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1099,03-05-2023,Withdraw,Unknown,Savings Bank,0,INR,TRANSFER,200,INR,Cash,200,INR,No-description,None
+1100,02-05-2023,Glasses,Bills & Fees,Savings Bank,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+1101,02-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1102,02-05-2023,Bus,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1103,02-05-2023,No title,Unknown,Cash,10,INR,INCOME,0,None,None,0,None,No-description,None
+1104,01-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1105,01-05-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1106,29-04-2023,Baba,Bills & Fees,Savings Bank,"1,600.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+1107,29-04-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1108,28-04-2023,Baba,Bills & Fees,Cash,100,INR,INCOME,0,None,None,0,None,No-description,None
+1109,28-04-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1110,28-04-2023,Bus: RtG,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1111,28-04-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+1112,28-04-2023,Bus,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1113,28-04-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1114,28-04-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1115,27-04-2023,Ice cream,Food & Drinks,Savings Bank,98,INR,EXPENSE,0,None,None,0,None,No-description,None
+1116,27-04-2023,Water,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1117,27-04-2023,Fried rice,Food & Drinks,Cash,80,INR,EXPENSE,0,None,None,0,None,No-description,None
+1118,27-04-2023,Goli soda,Food & Drinks,Savings Bank,49,INR,EXPENSE,0,None,None,0,None,No-description,None
+1119,27-04-2023,Auto,Transport,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1120,27-04-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1121,26-04-2023,RtA,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+1122,26-04-2023,Juice,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1123,26-04-2023,Baba sent,Unknown,Savings Bank,"3,000.00",INR,INCOME,0,None,None,0,None,No-description,None
+1124,26-04-2023,Bus: RtG,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1125,26-04-2023,BtR,Transport,Metro Card,40,INR,EXPENSE,0,None,None,0,None,No-description,None
+1126,26-04-2023,Metro Recharge,Bills & Fees,Metro Card,200,INR,INCOME,0,None,None,0,None,No-description,None
+1127,26-04-2023,Metro recharge,Bills & Fees,Savings Bank,200,INR,EXPENSE,0,None,None,0,None,No-description,None
+1128,25-04-2023,RtA,Transport,Metro Card,31.5,INR,EXPENSE,0,None,None,0,None,No-description,None
+1129,25-04-2023,Burger AM,Food & Drinks,Savings Bank,99,INR,EXPENSE,0,None,None,0,None,No-description,None
+1130,25-04-2023,Bus: RtG,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1131,25-04-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+1132,25-04-2023,Stonks return,Bills & Fees,Savings Bank,130.64,INR,INCOME,0,None,None,0,None,No-description,None
+1133,24-04-2023,RtA,Transport,Metro Card,31.5,INR,EXPENSE,0,None,None,0,None,No-description,None
+1134,24-04-2023,Bus: GtR,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1135,24-04-2023,SQ bands,Unknown,Cash,5,INR,EXPENSE,0,None,None,0,None,No-description,None
+1136,24-04-2023,Bus: RtG,Transport,Cash,10,INR,EXPENSE,0,None,None,0,None,No-description,None
+1137,24-04-2023,AtR,Transport,Metro Card,35,INR,EXPENSE,0,None,None,0,None,No-description,None
+1138,24-04-2023,Water,Food & Drinks,Savings Bank,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1139,24-04-2023,Frooti,Food & Drinks,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1140,24-04-2023,Water,Food & Drinks,Cash,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1141,24-04-2023,FAC,Unknown,Savings Bank,30,INR,EXPENSE,0,None,None,0,None,No-description,None
+1142,24-04-2023,Auto,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1143,23-04-2023,Shirt,Bills & Fees,Savings Bank,750,INR,EXPENSE,0,None,None,0,None,No-description,None
+1144,23-04-2023,TO TRANSFER INSUFFICIENT BAL POS DECLINE CHARGE,Unknown,Savings Bank,23.6,INR,EXPENSE,0,None,None,0,None,No-description,None
+1145,22-04-2023,Nidhish payup,Bills & Fees,Savings Bank,"1,551.00",INR,INCOME,0,None,None,0,None,No-description,None
+1146,22-04-2023, Category Expense,Bills & Fees,Savings Bank,"1,109.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+1147,22-04-2023,Category Expense,Bills & Fees,Savings Bank,"1,398.00",INR,EXPENSE,0,None,None,0,None,No-description,None
+1148,22-04-2023,Category Expense,Transport,Cash,20,INR,EXPENSE,0,None,None,0,None,No-description,None
+1149,22-04-2023,Mobile,Bills & Fees,Savings Bank,259,INR,EXPENSE,0,None,None,0,None,No-description,None
+1150,22-04-2023,Stonks,Unknown,Savings Bank,130,INR,EXPENSE,0,None,None,0,None,No-description,None
+1151,22-04-2023,Change,Unknown,Cash,7,INR,INCOME,0,None,None,0,None,No-description,None
+1152,22-04-2023,Sid returns,Unknown,Savings Bank,300,INR,INCOME,0,None,None,0,None,No-description,None
+1153,22-04-2023,Init,Unknown,Metro Card,139,INR,INCOME,0,None,None,0,None,No-description,None
+1154,22-04-2023,Init,Unknown,Savings Bank,"3,525.77",INR,INCOME,0,None,None,0,None,No-description,None
+1155,22-04-2023,Init,Unknown,Cash,250,INR,INCOME,0,None,None,0,None,No-description,None
